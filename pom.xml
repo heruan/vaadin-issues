@@ -11,7 +11,7 @@
 
     <properties>
         <java.version>12</java.version>
-        <vaadin.version>14.0.0.beta2</vaadin.version>
+        <vaadin.version>14.6.2</vaadin.version>
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
